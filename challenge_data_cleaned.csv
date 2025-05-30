@@ -1,0 +1,10 @@
+UserID,FullName,JoinDate,Age,Income,City,Membership,LastPurchase
+1001,Ahmed Ali,2022-05-20,25.0,5000.0,Cairo,gold,2023-01-10
+1002,Sara Mohamed,2022-05-20,27.0,5000.0,Alexandria,silver,2023-01-10
+1003,Laila Mostafa,2022-05-20,27.0,5700.0,Cairo,gold,2022-12-01
+1005,Omar Hassan,2023-01-01,22.0,5400.0,Cairo,gold,2023-05-11
+1006,Nada Youssef,2023-01-01,29.0,5400.0,Cairo,silver,2023-05-11
+1007,Tarek Said,2023-01-01,27.0,5100.0,Alex,bronze,2023-05-11
+1008,Mona Khaled,2020-11-11,31.0,6000.0,Giza,gold,2023-05-11
+1009,Amr Adel,2020-11-11,27.0,6000.0,Cairo,gold,2021-09-09
+1010,Salma Nour,2021-04-01,26.0,5800.0,Alexandria,silver,2022-07-07

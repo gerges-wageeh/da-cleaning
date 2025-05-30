@@ -1,0 +1,11 @@
+UserID,FullName,JoinDate,Age,Income,City,Membership,LastPurchase
+1001,Ahmed Ali,2022-05-20,25,5000,Cairo,Gold,2023-01-10
+1002,Sara Mohamed,not available,thirty,missing,Alexandria,silver,
+1003,Laila Mostafa,2021/06/30,27,5700,Cairo,Gold,2022-12-01
+1004,,"June 15, 2020",NaN,6200,Giza,Bronze,N/A
+1005,Omar Hassan,2023-01-01,22,5400,,gold,2023-05-11
+1006,Nada Youssef,2022-13-01,29,not reported,Cairo,Silver,2023/04/04
+1007,Tarek Said,,NaN,5100,Alex,bronze,not known
+1008,Mona Khaled,2020-11-11,31,6000,Giza,GOLD,
+1009,Amr Adel,12/31/2020,twenty-eight,NaN,Cairo,,2021-09-09
+1010,Salma Nour,2021-04-01,26,5800,Alexandria,Silver,2022-07-07
